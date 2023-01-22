@@ -1,0 +1,49 @@
+*{
+    margin: 0%;
+    padding: 0ch;
+    box-sizing: border-box;
+}
+.cal{
+    width: 400px;
+    height: 600px;
+    background-color: aquamarine;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.results{
+    display: flex;
+    justify-content: center;
+}
+.output{
+    width: 85%;
+    height: 50px;
+    margin-top: 15px;
+    border: px solid black;
+    border-radius: 6px;
+    pointer-events: none;
+    padding: 15px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.row-btn{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-top: 25px;
+}
+
+
+.btn{
+    width: 65px;
+    height: 30px;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 6px;
+}
+.buttons{
+    
+}
